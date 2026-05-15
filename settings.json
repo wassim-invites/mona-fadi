@@ -26,7 +26,6 @@
   "bibleQuoteAr": "\"وَالاِثْنَانِ خَيْرٌ مِنَ الْوَاحِدِ، لأَنَّ لَهُمَا أُجْرَةً حَسَنَةً فِي تَعَبِهِمَا\" — الجامعة ٤:٩",
   "bgMusic": "photos/music.mp3",
   "wishAccount": "@MonaFadiWedding",
-  "iban": "",
   "giftText": "",
   "formspreeId": "mdabaapd",
   "rsvpPhone": "76982756",
@@ -41,11 +40,11 @@
   "galleryPhotos": [],
   "galleryIdbKeys": [],
   "guests": {
-    "Wassimo-Testtt": {
-      "en": "Wassimo Testtt",
-      "ar": "الصديق الصدوق وسيم البابا المحترم",
+    "Wassim-Al-Baba-Testing-10": {
+      "en": "Wassim Al Baba Testing 1.0",
+      "ar": "عائلة وسيم",
       "members": [
-        "Wassim",
+        "Toufic",
         "Reine"
       ]
     }
