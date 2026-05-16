@@ -40,6 +40,14 @@
   "galleryPhotos": [],
   "galleryIdbKeys": [],
   "guests": {
+    "WissoTesting8": {
+      "en": "Wisso-Testing8",
+      "ar": "عائلة وسيم",
+      "members": [
+        "Wassim",
+        "Reine"
+      ]
+    },
     "Wassim-Al-Baba-Testing-10": {
       "en": "Wassim Al Baba Testing 1.0",
       "ar": "عائلة وسيم",
