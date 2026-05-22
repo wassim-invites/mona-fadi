@@ -44,6 +44,13 @@
     "photos/MF5.jpg"
   ],
   "guests": {
+    "Wassim-Al-Babas-Family": {
+      "en": "Wassim Al Baba's Family",
+      "members": [
+        "Wassim",
+        "Lara"
+      ]
+    },
     "Rony-Abboudys-Family": {
       "en": "Rony Abboudy's Family",
       "members": [
