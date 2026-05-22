@@ -24,7 +24,7 @@
   "giftBankName": "",
   "giftBankAccount": "",
   "giftBankIban": "",
-  "bgMusic": "",
+  "bgMusic": "photos/music.mp3",
   "ghRepo": "wassim-invites/fadi-mona",
   "heroPhoto": "photos/MF1.jpg",
   "midPhoto1": "photos/MF2.jpg",
