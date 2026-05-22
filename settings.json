@@ -34,7 +34,7 @@
   "giftBankAccount": "",
   "giftBankIban": "",
   "bgMusic": "photos/music.mp3",
-  "cardSpacing": "50",
+  "cardSpacing": "20",
   "ghRepo": "wassim-invites/fadi-mona",
   "photos": [
     "photos/MF1.jpg",
