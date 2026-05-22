@@ -34,10 +34,14 @@
   "giftBankAccount": "",
   "giftBankIban": "",
   "bgMusic": "photos/music.mp3",
+  "cardSpacing": "20",
   "ghRepo": "wassim-invites/fadi-mona",
   "photos": [
     "photos/MF1.jpg",
-    "photos/MF2.jpg"
+    "photos/MF2.jpg",
+    "photos/MF3.jpg",
+    "photos/MF4.jpg",
+    "photos/MF5.jpg"
   ],
   "guests": {
     "Rony-Abboudys-Family": {
