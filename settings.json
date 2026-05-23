@@ -44,6 +44,13 @@
     "photos/FM5.jpg"
   ],
   "guests": {
+    "Test-1": {
+      "en": "Test 1",
+      "members": [
+        "Wassim",
+        "LKara"
+      ]
+    },
     "Nour-Family": {
       "en": "Nour Family",
       "members": [
