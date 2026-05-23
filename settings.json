@@ -43,7 +43,15 @@
     "photos/FM4.jpg",
     "photos/FM5.jpg"
   ],
-  "guests": {},
+  "guests": {
+    "Wassim-Test": {
+      "en": "Wassim Test",
+      "members": [
+        "Wassim",
+        "Sara"
+      ]
+    }
+  },
   "_baseUrl": "https://wassim-invites.github.io/fadi-mona/",
   "_repo": "wassim-invites/fadi-mona"
 }
