@@ -44,6 +44,13 @@
     "photos/FM5.jpg"
   ],
   "guests": {
+    "Wassim-Baba-Family": {
+      "en": "Wassim Baba Family",
+      "members": [
+        "Wassim",
+        "Sara"
+      ]
+    },
     "Toufic-Bejjani-Family": {
       "en": "Toufic Bejjani Family",
       "members": [
