@@ -44,6 +44,13 @@
     "photos/FM5.jpg"
   ],
   "guests": {
+    "Test1": {
+      "en": "Test1",
+      "members": [
+        "Wassim",
+        "Sara"
+      ]
+    },
     "Wassim-Baba-Family": {
       "en": "Wassim Baba Family",
       "members": [
