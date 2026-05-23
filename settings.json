@@ -43,15 +43,7 @@
     "photos/FM4.jpg",
     "photos/FM5.jpg"
   ],
-  "guests": {
-    "Toufic-Bejjani-Family": {
-      "en": "Toufic Bejjani Family",
-      "members": [
-        "Toufic",
-        "Reine"
-      ]
-    }
-  },
+  "guests": {},
   "_baseUrl": "https://wassim-invites.github.io/fadi-mona/",
   "_repo": "wassim-invites/fadi-mona"
 }
