@@ -7,7 +7,7 @@
   "brideNameAr": "منى",
   "brideFamily": "Kahhale",
   "brideFamilyAr": "كحّالة",
-  "weddingDate": "2026-09-26",
+  "weddingDate": "2026-08-19",
   "ceremonyTime": "16:00",
   "receptionTime": "19:00",
   "churchName": "Saint Antoine Church",
@@ -44,6 +44,13 @@
     "photos/FM5.jpg"
   ],
   "guests": {
+    "Toufic-Bejjanis-Family": {
+      "en": "Toufic Bejjani's Family",
+      "members": [
+        "Reine",
+        "Toufic"
+      ]
+    },
     "Ryan-Abboudys-Family": {
       "en": "Ryan Abboudy's Family",
       "members": [
