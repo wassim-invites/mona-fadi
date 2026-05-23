@@ -43,15 +43,7 @@
     "photos/FM4.jpg",
     "photos/FM5.jpg"
   ],
-  "guests": {
-    "Karam-Saadallas-Family": {
-      "en": "Karam Saadalla's Family",
-      "members": [
-        "Karam",
-        "Nada"
-      ]
-    }
-  },
+  "guests": {},
   "_baseUrl": "https://wassim-invites.github.io/fadi-mona/",
   "_repo": "wassim-invites/fadi-mona"
 }
