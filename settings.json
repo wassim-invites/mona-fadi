@@ -43,15 +43,7 @@
     "photos/FM4.jpg",
     "photos/FM5.jpg"
   ],
-  "guests": {
-    "Rony-Abboudys-Family": {
-      "en": "Rony Abboudy's Family",
-      "members": [
-        "Rony",
-        "Cindi"
-      ]
-    }
-  },
+  "guests": {},
   "_baseUrl": "https://wassim-invites.github.io/fadi-mona/",
   "_repo": "wassim-invites/fadi-mona"
 }
