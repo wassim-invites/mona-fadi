@@ -44,6 +44,13 @@
     "photos/FM5.jpg"
   ],
   "guests": {
+    "Nour-Family": {
+      "en": "Nour Family",
+      "members": [
+        "Fadi",
+        "Mona"
+      ]
+    },
     "Karims-Family": {
       "en": "Karim's Family",
       "members": [
